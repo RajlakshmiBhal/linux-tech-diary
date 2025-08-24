@@ -1,0 +1,6 @@
+--- Favorite Commands --- 
+1. dir - list files and directories 
+2. cd - change directory 
+3. type - display file contents 
+4. notepad - open file in editor 
+5. compress-archive - compress files 

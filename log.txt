@@ -1,0 +1,6 @@
+--- Logbook --- 
+$ dir 
+$ mkdir test_folder 
+$ cd test_folder 
+$ echo Hello 
+$ type hello.txt 
